@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Polytron Smart TV",        
+        "price": "8275000",        
+        "img": "https://polytron.co.id/wp-content/uploads/2021/10/YW50aWtvZGVfXzE2MzQ2MTQ3OThfMDEtd2Vic2l0ZS1wbGQtNTBhZy1qcGc11.jpg"
+    },
+    {
+        "name": "iPhone 14 Pro",        
+        "price": "45000000",        
+        "img": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1662703105/Croma%20Assets/Communication/Mobiles/Images/261963_oqrd6j.png"
+    },
+    {
+        "name": "Asus Vivobook 14",        
+        "price": "11375000",        
+        "img": "https://dlcdnwebimgs.asus.com/gain/ba3d1966-0081-4ee2-ad23-1236a3bff982/"
+    }
+]
